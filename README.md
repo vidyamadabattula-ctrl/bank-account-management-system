@@ -46,7 +46,7 @@ Bank-Account-Management-System/
 └── README.md
 ## Demo
 
-![Bank Account Management System](Demo1.png)
+
 
 ## Future Improvements
 - Support multiple bank accounts
