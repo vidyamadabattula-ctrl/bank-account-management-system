@@ -44,9 +44,6 @@ Bank-Account-Management-System/
 │
 ├── BankAccountManagement.java
 └── README.md
-## Demo
-
-
 
 ## Future Improvements
 - Support multiple bank accounts
@@ -59,6 +56,8 @@ Bank-Account-Management-System/
 ## Author
 Vidya Madabattula 
 
+
 ## Demo
 ![Bank Account Management System](Demo1.png)
+
 ![Bank Account Management System](Demo2.png)
