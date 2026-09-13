@@ -45,3 +45,14 @@ Bank-Account-Management-System/
 │
 ├── BankAccountManagement.java
 └── README.md
+
+## Future Improvements
+- Support multiple bank accounts
+- Add account search functionality
+- Add transaction history
+- Implement file/database storage
+- Develop a graphical user interface
+- Add stronger input validation
+
+## Author
+Vidya Madabattula
