@@ -40,7 +40,6 @@ Separate methods are used for operations such as:
 - `displayAccount()`
 
 ## Project Structure
-```text
 Bank-Account-Management-System/
 │
 ├── BankAccountManagement.java
